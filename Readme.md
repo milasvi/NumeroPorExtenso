@@ -1,0 +1,1 @@
+Olá, mundo! Esse é um programa que mostra a forma por extenso de qualquer número entre 0 a 10 que o usuário informar.
